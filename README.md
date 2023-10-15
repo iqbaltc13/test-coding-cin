@@ -7,6 +7,7 @@
 1. Clone This project
 2. cd test-coding-cin (or directory of cloned this project)
 3. create a database on mysql
+4. import (test_coding_cin.sql) to database
 3. cp .env.example .env
 4. set the environment variables (config database, app kee , etc) on .env file
 5. npm install
